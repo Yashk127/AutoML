@@ -1,2 +1,9 @@
 # AutoML
-A Streamlit-based interactive AutoML application for regression and classification tasks with automatic data preprocessing, model training, and datavisualization.
+An interactive AutoML web application built with Streamlit that simplifies machine learning workflows for both regression and classification tasks. Users can upload datasets, preprocess data (e.g., handle missing values, label encoding, one-hot encoding), select features, train models, and visualize results—all without writing code.
+
+Features
+Automatic Preprocessing: Missing value handling, label encoding, and one-hot encoding with customizable options.
+Task Selection: Supports both regression and classification with various algorithms (e.g., Linear Regression, Decision Trees, SVM).
+Performance Evaluation: Displays metrics such as MSE, R2 Score, Accuracy, F1 Score, and more.
+Visualization: Confusion matrix, scatter plots, and prediction probabilities.
+Model Export: Download the best-trained model for future use.
