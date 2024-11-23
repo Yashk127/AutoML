@@ -7,3 +7,5 @@ Task Selection: Supports both regression and classification with various algorit
 Performance Evaluation: Displays metrics such as MSE, R2 Score, Accuracy, F1 Score, and more.
 Visualization: Confusion matrix, scatter plots, and prediction probabilities.
 Model Export: Download the best-trained model for future use.
+![image](https://github.com/user-attachments/assets/396a4470-2869-4954-a5d4-fb5c4644cda2)
+
